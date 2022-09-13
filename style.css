@@ -11,3 +11,10 @@ body{
     min-height: 100vh;
     background: #000;
 }
+
+.box{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    transform-style: preserve-3d;
+}
