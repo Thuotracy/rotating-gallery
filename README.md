@@ -1,7 +1,7 @@
 # ROTATING GALLERY
 
 ## Description
-A restuarant landing page.
+An image gallery design
 
 ## Live link
 https://thuotracy.github.io/food-website/
