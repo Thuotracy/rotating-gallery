@@ -4,7 +4,7 @@
 An image gallery design
 
 ## Live link
-https://thuotracy.github.io/food-website/
+https://thuotracy.github.io/rotating-gallery/
 
 ## Technologies Used
 * HTML
