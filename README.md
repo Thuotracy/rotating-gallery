@@ -1,5 +1,4 @@
 # ROTATING GALLERY
-
 ## Description
 An image gallery design
 
