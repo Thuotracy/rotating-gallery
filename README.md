@@ -1,6 +1,7 @@
 # ROTATING GALLERY
 
 ## Description
+
 An image gallery design
 
 ## Live link
