@@ -9,6 +9,7 @@ An image gallery design
 https://thuotracy.github.io/rotating-gallery/
 
 ## Technologies Used
+
 * HTML
 * CSS
 
